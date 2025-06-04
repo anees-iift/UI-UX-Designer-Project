@@ -24,7 +24,7 @@ The goal of this project is to create a visually appealing and user-friendly lan
 
 ## 🌐 Live Demo
 
-🔗 **Check it out here:** [https://yourusername.github.io/design-agency](https://yourusername.github.io/design-agency)
+🔗 **Check it out here:** [https://github.com/anees-iift/UI-UX-Designer-Project/blob/main/Figma%20Design1.fig)
 
 ---
 
@@ -45,7 +45,7 @@ The goal of this project is to create a visually appealing and user-friendly lan
 📂 **Access the design prototype here:**  
 [Figma Design File]([https://www.figma.com/file/your-file-id/design-agency](https://www.figma.com/design/4FMIuEi3pwcS60thUlyFs0/Untitled?node-id=0-1&t=PXM6UdkHf7M0YC2O-1))
 
-📎 Or download locally: `design/DesignAgency.fig`
+📎 Or download locally: `design/Figma Design1.fig`
 
 > 📝 Feel free to duplicate and use the design for learning purposes.
 
